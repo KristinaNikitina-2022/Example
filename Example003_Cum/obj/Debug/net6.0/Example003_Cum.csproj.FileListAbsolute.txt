@@ -1,0 +1,15 @@
+C:\Users\mirab\OneDrive\Рабочий стол\Examples\Example003_Cum\obj\Debug\net6.0\Example003_Cum.csproj.AssemblyReference.cache
+C:\Users\mirab\OneDrive\Рабочий стол\Examples\Example003_Cum\obj\Debug\net6.0\Example003_Cum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirab\OneDrive\Рабочий стол\Examples\Example003_Cum\obj\Debug\net6.0\Example003_Cum.AssemblyInfoInputs.cache
+C:\Users\mirab\OneDrive\Рабочий стол\Examples\Example003_Cum\obj\Debug\net6.0\Example003_Cum.AssemblyInfo.cs
+C:\Users\mirab\OneDrive\Рабочий стол\Examples\Example003_Cum\obj\Debug\net6.0\Example003_Cum.csproj.CoreCompileInputs.cache
+C:\Users\mirab\OneDrive\Рабочий стол\Examples\Example003_Cum\bin\Debug\net6.0\Example003_Cum.exe
+C:\Users\mirab\OneDrive\Рабочий стол\Examples\Example003_Cum\bin\Debug\net6.0\Example003_Cum.deps.json
+C:\Users\mirab\OneDrive\Рабочий стол\Examples\Example003_Cum\bin\Debug\net6.0\Example003_Cum.runtimeconfig.json
+C:\Users\mirab\OneDrive\Рабочий стол\Examples\Example003_Cum\bin\Debug\net6.0\Example003_Cum.dll
+C:\Users\mirab\OneDrive\Рабочий стол\Examples\Example003_Cum\bin\Debug\net6.0\Example003_Cum.pdb
+C:\Users\mirab\OneDrive\Рабочий стол\Examples\Example003_Cum\obj\Debug\net6.0\Example003_Cum.dll
+C:\Users\mirab\OneDrive\Рабочий стол\Examples\Example003_Cum\obj\Debug\net6.0\refint\Example003_Cum.dll
+C:\Users\mirab\OneDrive\Рабочий стол\Examples\Example003_Cum\obj\Debug\net6.0\Example003_Cum.pdb
+C:\Users\mirab\OneDrive\Рабочий стол\Examples\Example003_Cum\obj\Debug\net6.0\Example003_Cum.genruntimeconfig.cache
+C:\Users\mirab\OneDrive\Рабочий стол\Examples\Example003_Cum\obj\Debug\net6.0\ref\Example003_Cum.dll
